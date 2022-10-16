@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm sour4v</h1>
-- 📫 How to reach me **iamsouravpaul2000@gmail.com**
+
 
 
 
